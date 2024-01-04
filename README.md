@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Juan Diego
 - 👀 I’m interested in frontend development and the JAM stack
-- 🌱 I’m currently learning React with Typescript
+- 🌱 Proficient in React with Typescript
 - 🇻🇪 Bilingual 
 
 <!---
